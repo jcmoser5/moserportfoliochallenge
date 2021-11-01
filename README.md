@@ -1,16 +1,11 @@
-# Run Buddy, Inc
+# Portfolio Challenge
 
 ## Purpose
-A website that offers fitness training services. 
+Website to show skills learned during coding boot camp 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
-
-## Contribution
-Made with ❤️ by [your name]
-
-### ©️2019 Run Buddy, Inc 
+https://jcmoser5.github.io/moserportfoliochallenge/
